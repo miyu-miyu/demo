@@ -6,3 +6,4 @@ hello vim!
 the file is fixed in hot-fix Branch.
 
 master change to test merge conflict!!!
+hot-fix change to test merge conflict!!!

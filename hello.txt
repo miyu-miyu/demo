@@ -4,3 +4,5 @@ hello vim!
 hello vim!
 
 the file is fixed in hot-fix Branch.
+
+master change to test merge conflict!!!

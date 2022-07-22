@@ -5,4 +5,8 @@
 ~~~shell
 git init
 ~~~
-ok
+git diff change ok
+
+change to test git diff
+
+change2 to test git diff
